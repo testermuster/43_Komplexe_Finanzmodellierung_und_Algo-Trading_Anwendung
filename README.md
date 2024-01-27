@@ -1,0 +1,2 @@
+# 43_Komplexe_Finanzmodellierung_und_Algo-Trading_Anwendung
+Eine Plattform für algorithmischen Handel und komplexe Finanzmodellierung für Finanzmärkte.
